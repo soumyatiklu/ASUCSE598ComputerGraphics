@@ -1,4 +1,8 @@
 ASUCSE598ComputerGraphics
 =========================
 
-3D ray tracer and a small cannon shooting game developed for the Computer Graphics course.
+This is a repository of graphics applications written using C++ and OpenGL. Includes
+
+    A 3D ray tracer
+    A 3D navigable scene
+    A 2D cannon shooting game
